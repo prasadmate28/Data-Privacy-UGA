@@ -5,7 +5,7 @@ import pandas as pd
 
 
 #global variables
-file_data = pd.read_csv(r"G:\University of Georgia\Fall semester 16\Data Privacy\Assignment1\UCI Adut data\adultData.csv")
+file_data = pd.read_csv("#<filepath>")
 
 condition = True
 
