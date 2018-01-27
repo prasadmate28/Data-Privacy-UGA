@@ -4,8 +4,7 @@ Data Privacy - CSCI 6900, UGA Fall 2016
 
 Assignment 1
 ------------------------------------------
-
-
+Build a histogram for the adult dataset from UCI repository(http://archive.ics.uci.edu/ml/machine-learning-databases/adult/) Then, build a noisy histogram (differentially private) by adding random noise from Laplacian distribution and plot mean squared error for different values of epsilon (privacy budget).
 
 
 Assignment 2
@@ -19,9 +18,12 @@ http://archive.ics.uci.edu/ml/datasets/Tic-Tac-Toe+Endgame.
 
 Part 2. Mushroom Classification
 
-In this part, we are going to use logistic regression model to classify mushrooms.
+This part includes code for logistic regression model used to perform "classification of mushrooms" problem. 
 
 Term Project
 --------------------------------------
 Survey and implementation of Differentially private M-estimator
+
+This project includes implementation and analysis of differentially private M-estimator.
+Based on paper:- https://papers.nips.cc/paper/4376-differentially-private-m-estimators.pdf
 
